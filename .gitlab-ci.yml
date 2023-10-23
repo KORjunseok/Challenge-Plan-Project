@@ -29,4 +29,4 @@ package:   # JOB 이름
     - docker logout
   # JOB이 수행될 branch 설정 (설정된 branch에 push가 발생될 시 JOB 수행)
   only:
-    - master
+    - main
